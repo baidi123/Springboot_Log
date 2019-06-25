@@ -18,3 +18,4 @@
 2019-06-25 14:37:49.919 febs [http-nio-8083-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
 2019-06-25 14:37:49.936 febs [http-nio-8083-exec-3] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 17 ms
 2019-06-25 14:37:50.018 febs [http-nio-8083-exec-3] INFO  com.demo.test.web.LogController - 123
+2019-06-25 14:54:16.454 febs [Thread-41] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
